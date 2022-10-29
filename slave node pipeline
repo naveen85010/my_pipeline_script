@@ -1,1 +1,8 @@
 
+ agent {
+        node {
+            label 'node1'
+        }
+    }
+    
+   
